@@ -18,3 +18,6 @@
 # 接口文档
 
 localhost:4000/apidoc
+
+#数据库
+[sql数据](./sql)
