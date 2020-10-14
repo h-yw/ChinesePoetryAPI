@@ -1,0 +1,16 @@
+{
+  "name": "ChinesePoetryAPI",
+  "version": "1.0.0",
+  "description": "诗词API,暂包括诗，词，曲三类",
+  "title": "ChinesePoetryApi",
+  "url": "http://localhost:3000",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2020-10-08T13:01:13.396Z",
+    "url": "https://apidocjs.com",
+    "version": "0.25.0"
+  }
+}
